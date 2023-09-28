@@ -12,10 +12,11 @@ namespace Rock_Paper_Scissors
         lose,
         draw,
     }
-    public enum choice
+    public enum Choice
     {
         rock,
         paper,
-        scissor,
+        scissors,
+
     }
 }
